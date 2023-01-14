@@ -1,1 +1,1 @@
-# 13.1 forEach, map, and filter
+# 13 advanced array methods
